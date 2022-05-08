@@ -1,19 +1,19 @@
-# Converters
+# Convertors
 convert.py is a small, rough script designed to convert simple .csv files from specific platforms to the tax.crypto.com format as specified here [CSV Format](https://help.crypto.com/en/articles/5019792-data-import)
 ## Usage
-`python3 convert.py [-h] [-f FILE] [-o OUTPUT]`
-
-`-h, --help` 	Shows help message and exits
-`-f, --file` 	Specify input file name/path default is data.csv
-`-o, --output`	Specify output file name/path default is output.csv
+`python3 convert.py [-h] [-f FILE] [-o OUTPUT]`<br />
+<br />
+`-h, --help` 	Shows help message and exits <br />
+`-f, --file` 	Specify input file name/path default is data.csv <br />
+`-o, --output`	Specify output file name/path default is output.csv <br />
 
 ### Example
-We have a file from either BlockFi or Celcius in the containing directory and renamed as 
-`input.csv`
-Run the following command
-`python3 convert.py`
-Output can be found in the containing directory
-`output.csv`
+We have a file from either BlockFi or Celcius in the containing directory and renamed as <br />
+`input.csv` <br />
+Run the following command <br />
+`python3 convert.py` <br />
+Output can be found in the containing directory <br />
+`output.csv` <br />
 
 ## Supported Input File Platforms
 - BlockFi
