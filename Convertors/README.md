@@ -28,7 +28,7 @@ The code may have errors and manual checking or adjustments are required to ensu
 
 ## Assumptions
 ### BlockFi
-- "Crypto Transfer" is (received crypto) is configured to be "mining" by default, edit to the most common type and manually check as required
+- "Crypto Transfer" (received crypto) is configured to be "mining" by default, edit to the most common type and manually check as required
 - "Withdrawal" assumed to be a transfer by default
 ### Celcius
 - "Withdrawal" assumed to be transfer by default
