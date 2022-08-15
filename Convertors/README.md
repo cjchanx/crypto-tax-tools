@@ -9,7 +9,7 @@ convert.py is a small, rough script designed to convert simple .csv files from s
 
 ### Example
 We have a file from either BlockFi or Celcius in the containing directory and renamed as <br />
-`input.csv` <br />
+`data.csv` <br />
 Run the following command <br />
 `python3 convert.py` <br />
 Output can be found in the containing directory <br />
